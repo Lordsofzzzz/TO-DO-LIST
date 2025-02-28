@@ -7,7 +7,7 @@ A simple command-line **To-Do List** application written in C. This program allo
 - ✅ Add new tasks to the list
 - 📜 View all tasks
 - ❌ Delete specific tasks
-- 🎨 Simple and easy-to-use menu interface with colors
+- 🎨 Simple and easy-to-use menu interface
 
 ## How to Compile and Run
 
@@ -27,11 +27,11 @@ A simple command-line **To-Do List** application written in C. This program allo
 After running the program, you will see a menu:
 
 ```
-�33[1;34mTo-Do List Menu:�33[0m
-�33[1;32m1. Add Task�33[0m
-�33[1;33m2. View Tasks�33[0m
-�33[1;31m3. Delete Task�33[0m
-�33[1;37m4. Exit�33[0m
+To-Do List Menu:
+1. Add Task
+2. View Tasks
+3. Delete Task
+4. Exit
 Choose an option:
 ```
 
