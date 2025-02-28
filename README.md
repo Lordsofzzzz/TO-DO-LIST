@@ -1,4 +1,4 @@
-# To-Do List in C
+# To-Do List in C.
 
 A simple command-line **To-Do List** application written in C. This program allows users to add, view, and delete tasks efficiently.
 
